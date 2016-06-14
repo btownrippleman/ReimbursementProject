@@ -1,21 +1,4 @@
-Skip to content
- 
- 
-Search…
-All gists
-GitHub
-New gist @btownrippleman
- Edit
-  Delete
-  Star 0
-  @btownripplemanbtownrippleman/tables for project 1
-Created 19 minutes ago
-Embed  
-<script src="https://gist.github.com/btownrippleman/e383e89a2481264482427d0fbf6f9212.js"></script>
-  Download ZIP
- Code  Revisions 1
-wow, what a waste of time making these tables, good practice for proc programming though!!!
-Raw  tables for project 1
+
 create table ers_reimbursement_status(
   reimb_status_id number,
   reimb_status varchar2(10),
@@ -130,13 +113,3 @@ create or replace trigger   ers_employees_trigger
 --ers_reimbursement_type
 --ers_user_roles
 -- ers_reimbursement
- @btownrippleman
-           
-Write  Preview
-
-Leave a comment
-Attach files by dragging & dropping,  Choose Files selecting them, or pasting from the clipboard.
- Styling with Markdown is supported
-Comment
-Status API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help
